@@ -22,4 +22,4 @@
 
 ## Folder view
 
-![Frame folder] (https://github.com/jaimehernan95/CareerCloud-Assigment1/blob/main/images/assigment1.png?=true)
+![Frame folder] (https://github.com/jaimehernan95/CareerCloud-Assigment1/blob/main/images/assigment1)
