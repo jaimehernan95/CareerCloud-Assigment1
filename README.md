@@ -1,6 +1,6 @@
-# ** CareerCloud-Assigment1**
+#  CareerCloud-Assigment1
 ## Description:
-### In this assignment you will create class structures that represent database tables. These classes will be used to load data from the database into memory in later assignments. They will also be the foundation for the layered architecture we will build during the modules of our program.
+##### In this assignment you will create class structures that represent database tables. These classes will be used to load data from the database into memory in later assignments. They will also be the foundation for the layered architecture we will build during the modules of our program.
 
 ### References:
 
@@ -22,4 +22,4 @@
 
 ## Folder view
 
-https://github.com/jaimehernan95/CareerCloud-Assigment1/tree/main/images/assigment1.png
+![alt text] (https://github.com/jaimehernan95/CareerCloud-Assigment1/tree/main/images/assigment1.png)
